@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.92a24515.chunk.css",
+    "main.js": "/react/static/js/main.12f0f438.chunk.js",
+    "main.js.map": "/react/static/js/main.12f0f438.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.58604490.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.58604490.js.map",
+    "static/css/2.9b43b396.chunk.css": "/react/static/css/2.9b43b396.chunk.css",
+    "static/js/2.6fe28f11.chunk.js": "/react/static/js/2.6fe28f11.chunk.js",
+    "static/js/2.6fe28f11.chunk.js.map": "/react/static/js/2.6fe28f11.chunk.js.map",
+    "static/js/3.eaef0d3a.chunk.js": "/react/static/js/3.eaef0d3a.chunk.js",
+    "static/js/3.eaef0d3a.chunk.js.map": "/react/static/js/3.eaef0d3a.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/2.9b43b396.chunk.css.map": "/react/static/css/2.9b43b396.chunk.css.map",
+    "static/css/main.92a24515.chunk.css.map": "/react/static/css/main.92a24515.chunk.css.map",
+    "static/js/2.6fe28f11.chunk.js.LICENSE.txt": "/react/static/js/2.6fe28f11.chunk.js.LICENSE.txt",
+    "static/media/AdminLTELogo.dc3925d0.png": "/react/static/media/AdminLTELogo.dc3925d0.png",
+    "static/media/summernote-lite.css": "/react/static/media/summernote.bd0d8be1.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58604490.js",
+    "static/css/2.9b43b396.chunk.css",
+    "static/js/2.6fe28f11.chunk.js",
+    "static/css/main.92a24515.chunk.css",
+    "static/js/main.12f0f438.chunk.js"
+  ]
+}
